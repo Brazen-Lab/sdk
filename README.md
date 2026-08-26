@@ -3,7 +3,7 @@
 Fine-tune models on AWS Trainium, in your own AWS account.
 
 ```bash
-pip install https://github.com/Brazen-Lab/sdk/releases/latest/download/brazenlab_sdk-0.1.0-py3-none-any.whl
+pip install https://github.com/Brazen-Lab/sdk/releases/latest/download/brazenlab_sdk-0.8.9-py3-none-any.whl
 
 brazenlab login --token <your-token>
 brazenlab connect
